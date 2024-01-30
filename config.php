@@ -4,7 +4,7 @@
 
 $host = 'azmysqlsvr01.mysql.database.azure.com';
 $username = 'aduser';
-$password = 'Uni@2024!!!';
+$password = 'Uni@2024!!';
 $db_name = 'your_database';
 
 //Initializes MySQLi
